@@ -3,14 +3,6 @@
 This project demonstrates how to interface a **4-digit 7-segment display** with an **Arduino** using the `SevSeg` library. It supports **numeric values** and **text mode (A-Z)** for limited character display.
 
 ---
-📜 Features
-✅ Display **numbers (0-9999)**
-✅ Display **limited text (A-Z)**
-✅ **Switch between Text and Value Mode**
-✅ Uses **current-limiting resistors (330Ω recommended)**
-✅ Custom **pin configuration**
-
----
 ## 🔌 Pinout Configuration
 The 4-digit 7-segment display uses the following pin mapping:
 
