@@ -6,6 +6,9 @@ This project demonstrates how to interface a **4-digit 7-segment display** with 
 ## 🔌 Pinout Configuration
 The 4-digit 7-segment display uses the following pin mapping:
 
+![image](https://github.com/user-attachments/assets/44c27e0a-85dd-45b4-bf75-5f8f23b39fe9)
+
+
 | Display Pin | Arduino Pin |
 |------------|------------|
 | D1         | D2         |
